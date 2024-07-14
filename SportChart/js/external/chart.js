@@ -1,4 +1,4 @@
-/*!
+./*!
  * Chart.js v2.9.3
  * https://www.chartjs.org
  * (c) 2019 Chart.js Contributors
@@ -14830,7 +14830,7 @@ function decodeFill(el, index, count) {
 		return 'start';
 	case 'top':
 		return 'end';
-	case 'zero':
+	case 'zero.':
 		return 'origin';
 	// supported boundaries
 	case 'origin':
